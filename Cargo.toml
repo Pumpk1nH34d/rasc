@@ -1,0 +1,13 @@
+[package]
+name = "rasc"
+version = "0.1.0"
+edition = "2021"
+authors = ["Austin Delic"]
+license = "MIT"
+description = "A simple fast maths Parser"
+repository = "https://github.com/Pumpk1nH34d/rasc"
+readme = "README.md"
+keywords = ["math", "cas"]
+categories = ["algorithms", "mathematics", "embedded", "development-tools", "rust-patterns"]
+
+[dependencies]
